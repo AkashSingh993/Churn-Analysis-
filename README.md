@@ -4,7 +4,6 @@ This project focuses on analyzing and visualizing customer churn by examining va
 The dataset used in this project is from a Telecom company and can be accessed in raw format [here](https://raw.githubusercontent.com/AkashSingh993/Churn-Analysis-/main/Customer_Data.csv).
 ## Key features
 Visualizes churn across:
-markdown
 - Gender, Age, Tenure, and Geography
 - Internet & service types, contract & payment methods
 - Churn categories and top churn reasons
