@@ -3,16 +3,16 @@ This project focuses on analyzing and visualizing customer churn by examining va
 ## Dataset
 The dataset used in this project is from a Telecom company and can be accessed in raw format [here](https://raw.githubusercontent.com/AkashSingh993/Churn-Analysis-/main/Customer_Data.csv).
 ## Key features
-1.Visualizes churn across:
+1. Visualizes churn across:
 - Gender, Age, Tenure, and Geography
 - Internet & service types, contract & payment methods
 - Churn categories and top churn reasons
 - Churn distribution across customer segmentsMachine Learning - Churn Prediction
 
-2.Trained a Random Forest Classifier to predict future churners
+2. Trained a Random Forest Classifier to predict future churners
 
-Used model insights to create a "Churn Prediction" dashboard highlighting:
-- At-risk customers
-- Predicted churn probabilities
-- Demographic and service-based risk patterns
+  Used model insights to create a "Churn Prediction" dashboard highlighting:
+  - At-risk customers
+  - Predicted churn probabilities
+  - Demographic and service-based risk patterns
 
