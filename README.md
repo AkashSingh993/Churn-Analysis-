@@ -9,9 +9,8 @@ The dataset used in this project is from a Telecom company and can be accessed i
 - Churn categories and top churn reasons
 - Churn distribution across customer segmentsMachine Learning - Churn Prediction
 
-2. Trained a Random Forest Classifier to predict future churners
+2. Trained a Random Forest Classifier to predict future churners and created a "Churn Prediction" dashboard highlighting:
 
-Used model insights to create a "Churn Prediction" dashboard highlighting:
   - At-risk customers
   - Predicted churn probabilities
   - Demographic and service-based risk patterns
